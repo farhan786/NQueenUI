@@ -40,7 +40,7 @@ namespace NQueenUI
             }
             else {
 
-                MessageBox.Show( "You enter some invalid input." , "Invalid Input" , MessageBoxButtons.OK , MessageBoxIcon.Exclamation );
+                MessageBox.Show( "You entered some invalid input." , "Invalid Input" , MessageBoxButtons.OK , MessageBoxIcon.Exclamation );
 
             }
         }
